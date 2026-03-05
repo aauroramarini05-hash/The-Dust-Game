@@ -89,3 +89,7 @@ Thumbs.db
 *~
 *.swp
 *.swo
+-e 
+# Environment files
+*.env
+*.env.*
